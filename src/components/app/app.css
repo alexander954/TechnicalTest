@@ -1,0 +1,10 @@
+.maindiv{
+    width: fit-content;
+    margin: 30px auto;
+}
+.centered{
+    text-align: center;
+}
+body {
+    background-color: #a8ffd2;
+}

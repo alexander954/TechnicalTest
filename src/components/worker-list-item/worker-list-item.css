@@ -1,0 +1,9 @@
+.list-item{
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.list-item-element{
+    margin-right: 10px;
+}

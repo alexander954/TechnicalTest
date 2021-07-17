@@ -1,0 +1,22 @@
+.Addform{
+    margin:30px auto;
+    text-align: right;
+    line-height: 25px;
+}
+.formBtn{
+    width: 100%;
+}
+.formLabel{
+    float: left;
+    padding-right: 10px;
+}
+.selectNewAtributes{
+    height: 22px;
+    margin-right: 10px;
+}
+.newAtributesElement{
+    margin-right: 10px;
+}
+.formDiv{
+    float: left;
+}
